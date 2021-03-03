@@ -1,0 +1,15 @@
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\bin\Debug\net5.0\StealJobs.Entities.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\bin\Debug\net5.0\StealJobs.Entities.pdb
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.csprojAssemblyReference.cache
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\Contracts\obj\Debug\net5.0\Contracts.pdb

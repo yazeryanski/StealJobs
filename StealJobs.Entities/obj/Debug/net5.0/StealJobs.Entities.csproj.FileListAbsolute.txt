@@ -1,0 +1,15 @@
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\bin\Debug\net5.0\StealJobs.Entities.deps.json
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\bin\Debug\net5.0\StealJobs.Entities.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\bin\Debug\net5.0\ref\StealJobs.Entities.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\bin\Debug\net5.0\StealJobs.Entities.pdb
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.AssemblyInfoInputs.cache
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.AssemblyInfo.cs
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\ref\StealJobs.Entities.dll
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.pdb
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\bin\Debug\net5.0\StealJobs.Entities.runtimeconfig.json
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\bin\Debug\net5.0\StealJobs.Entities.runtimeconfig.dev.json
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.genruntimeconfig.cache
+C:\Users\yazeryanski\source\repos\StealJobs.API\StealJobs.Entities\obj\Debug\net5.0\StealJobs.Entities.csprojAssemblyReference.cache

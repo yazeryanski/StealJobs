@@ -1,0 +1,130 @@
+html {
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: url(../images/background.jpg) #0e0e0e;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Bebas Neue", cursive;
+}
+
+.header {
+    padding: 200px 0 100px 0;
+    @media (max-width: 768px) {
+        padding: 100px 0 50px 0;
+    }
+
+    h1 {
+        font-size: 100px;
+        color: white;
+        text-align: center;
+        span {
+            color: #0d6efd;
+        }
+    }
+
+    .filter-bar {
+        display: flex;
+        input {
+            height: 100%;
+        }
+
+        @media (max-width: 768px) {
+            flex-direction: column;
+        }
+    }
+}
+
+.sidebar {
+    border-right: 1px solid #fff;
+
+    @media (max-width: 768px) {
+        margin-bottom: 1rem;
+        border-right: none;
+    }
+
+    &-item {
+        background-color: #fff;
+        border-radius: 5px;
+        padding: 15px 10px;
+
+        .btn {
+            position: relative;
+            width: 100%;
+
+            &::after {
+                content: "\f063";
+                font-weight: 700;
+                font-family: "Font Awesome 5 Free";
+                position: absolute;
+                right: 20px;
+                top: 0;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+    }
+}
+
+.content {
+    &-header {
+        background-color: #d1d1d1;
+        padding: 10px 15px;
+        border-radius: 5px;
+        
+        margin-bottom: 1rem;
+
+        p {
+            margin-bottom: 0;
+            color: rgb(46, 46, 46);
+            font-weight: 400;
+        }
+    }
+
+    .job-list {
+        .card {
+            color: #0e0e0e;
+            text-decoration: none;
+            transition: 0.3s ease-in all;
+            box-shadow: 0 5px 15px transparent;
+            display: block;
+
+            &:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 0px 15px rgba(#0d6efd, 0.5);
+            }
+            img {
+                width: 100%;
+            }
+
+            &-title {
+                font-size: 25px;
+                a {
+                    color: #0e0e0e;
+                    text-decoration: none;
+                }
+            }
+
+            &-body {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                height: 100%;
+            }
+        }
+    }
+}
